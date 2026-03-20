@@ -1,4 +1,4 @@
-<img alt="image" src="https://github.com/user-attachments/assets/64cd3b81-a0b1-4498-ab1d-dcd72e753ecb" />
+<img width="250" height="66.41" alt="image" src="https://github.com/user-attachments/assets/64cd3b81-a0b1-4498-ab1d-dcd72e753ecb" />
 
 [Twin](https://twin.so) is an agent builder that lets anyone automate workflows across their applications using natural language — no code, no setup, no infrastructure.
 
